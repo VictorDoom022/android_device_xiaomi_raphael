@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosap_raphael.mk
+    $(LOCAL_DIR)/carbon_raphael.mk
